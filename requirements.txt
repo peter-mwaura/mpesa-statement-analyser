@@ -22,7 +22,8 @@ pip==23.3.1
 pdfminer.six==20221105
 #pdfplumber==0.10.3
 pdfplumber==0.9.0
-pikepdf==8.5.2
+#pikepdf==8.5.2
+pikepdf==1.8.1
 Pillow==10.1.0
 pycparser==2.21
 PyPDF2==3.0.1
